@@ -19,10 +19,5 @@
 * 🧪 **Gene Expression Analysis** – Deep forensic cleaning of high-dimensional genomic datasets.
 * 🐧 **Predictive Modeling** – Multi-variant classification pipelines for environmental data validation.
 
-### Stats & Activity
-
-![Tycho's GitHub stats](https://github-readme-stats.vercel.app/api?username=tychocollins&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tychocollins&layout=compact&theme=radical)
-
 📫 **Connect with me:** 
 [LinkedIn](https://www.linkedin.com/in/tycho-collins-957998200) | [Website](https://vestigialabs.com)
