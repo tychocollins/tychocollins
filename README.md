@@ -1,6 +1,6 @@
 # Hi, I'm Tycho 👋
 
-📍 **Miami, FL** | 🤖 **AI Architect & Founder** | 🚀 **Vestigia Labs**
+📍 **Miami, FL** | 🤖 **AI Architect & Founder** | 🔍 **Vestigia Labs**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -9,7 +9,7 @@
 
 > Building **Vestigia Labs**—an institutional-grade RAG system solving the $10B "Trust Deficit" in cross-border auditing through deterministic, bilingual source anchoring.
 
-🔍 **[vestigialabs.com](https://vestigialabs.com)** (Proprietary) – Forensic-only architecture for HKEX market transparency.
+ **[vestigialabs.com](https://vestigialabs.com)** (Proprietary) – Forensic-only architecture for HKEX market transparency.
 
 ### Current Projects
 
