@@ -3,8 +3,8 @@
 📍 **Miami, FL** | 🤖 **AI Architect & Founder** | 🚀 **Vestigia Labs**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 > Building **Vestigia Labs**—an institutional-grade RAG system solving the $10B "Trust Deficit" in cross-border auditing through deterministic, bilingual source anchoring.
