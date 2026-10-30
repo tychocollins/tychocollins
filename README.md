@@ -9,7 +9,7 @@
 ![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
 
-> Building AI that does real research work in finance. Vestigia Labs is an AI intelligence terminal for investors in Chinese stocks. It monitors news, filings, and regulators, runs on its own schedule, and every number it reports traces back to a source document.
+> Vestigia Labs is an AI intelligence terminal for investors in Chinese stocks. It monitors news, charts, filings, and regulators, runs on its own schedule.
 
 🌐 [vestigialabs.com](https://vestigialabs.com/) (Proprietary), with an ETF manager as a paying client
 
