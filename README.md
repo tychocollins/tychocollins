@@ -1,6 +1,6 @@
 # Hi, I'm Tycho 👋
 
-📍 New York, NY | 🤖 AI Architect & Founder | 🔬 Vestigia Labs
+📍 New York, NY | 🤖 AI Architect & Founder | Vestigia Labs
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
