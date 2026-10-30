@@ -9,13 +9,13 @@
 ![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
 
-> Building AI that does real research work in finance. Vestigia Labs is an AI research terminal for investors in Chinese stocks. It monitors news, filings, and regulators, runs on its own schedule, and every number it reports traces back to a source document.
+> Building AI that does real research work in finance. Vestigia Labs is an AI intelligence terminal for investors in Chinese stocks. It monitors news, filings, and regulators, runs on its own schedule, and every number it reports traces back to a source document.
 
 🌐 [vestigialabs.com](https://vestigialabs.com/) (Proprietary), with an ETF manager as a paying client
 
 ## 🚀 What I Work On
 
-- **Autonomous research workflows:** AI that reads filings and news and hands analysts finished work they can check against the source
+- **Autonomous research workflows:** AI that works autonmously doing research, monitoring news, market, and providing real value for firms, analyst using the terminal.
 - **Full stack:** Python, Flutter, PostgreSQL, Google Cloud, AWS
 - **Business side:** client relationships, pricing, and partnerships, alongside my co-founders
 
