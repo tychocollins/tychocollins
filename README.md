@@ -1,6 +1,6 @@
 # Hi, I'm Tycho 👋
 
-📍 New York, NY | 🤖 AI Architect & Founder | Vestigia Labs
+📍 New York, NY | Co-Founder & Lead Developer | Vestigia Labs
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -15,16 +15,16 @@
 
 ## 🚀 What I Work On
 
-- 🤖 **Autonomous research workflows:** AI that reads filings and news and hands analysts finished work they can check against the source
-- 🧱 **Full stack:** Python, Flutter, PostgreSQL, Google Cloud, AWS
-- 🤝 **Business side:** client relationships, pricing, and partnerships, alongside my co-founders
+- **Autonomous research workflows:** AI that reads filings and news and hands analysts finished work they can check against the source
+- **Full stack:** Python, Flutter, PostgreSQL, Google Cloud, AWS
+- **Business side:** client relationships, pricing, and partnerships, alongside my co-founders
 
 ## 🛠️ Projects
 
-- 🔬 [Vestigia Labs](https://vestigialabs.com/) (proprietary): the research terminal
-- 🛡️ [SEC-Agentic-RAG](https://github.com/tychocollins/sec-agentic-rag): an early engine for extracting data from financial filings
-- 🌪️ [DDPM From Scratch](https://github.com/tychocollins/ddpm-from-scratch-solo): a diffusion model for face generation, written from the ground up in PyTorch
-- 🧬 [GenAI](https://github.com/tychocollins/GenAI): team project on facial generation, which I led
+- [Vestigia Labs](https://vestigialabs.com/) (proprietary): the research terminal
+- [SEC-Agentic-RAG](https://github.com/tychocollins/sec-agentic-rag): an early engine for extracting data from financial filings
+- [DDPM From Scratch](https://github.com/tychocollins/ddpm-from-scratch-solo): a diffusion model for face generation, written from the ground up in PyTorch
+- [GenAI](https://github.com/tychocollins/GenAI): team project on facial generation, which I led
 
 ## 📫 Connect
 
